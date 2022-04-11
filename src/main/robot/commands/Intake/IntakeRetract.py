@@ -4,7 +4,7 @@ from commands2 import CommandBase
 import main.robot.Robot as Robot
 from main.robot.Robot import MyRobot
 
-class IntakeExtend(CommandBase):
+class IntakeRetract(CommandBase):
     def __init__(self):
         self.addRequirements(MyRobot.INTAKE)
 
