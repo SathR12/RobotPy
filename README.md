@@ -26,7 +26,7 @@ Minor importing errors, run on RoboRio...
 
 ```shell
 
-py -3 robot.py deploy
+py -3 Robot.py deploy
 ```
 
 ## Autonomous path planning
